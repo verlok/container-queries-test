@@ -1,4 +1,4 @@
-# container-queries-test
+# CSS Container Queries Test
 
 This is just a test to play around with CSS container queries.
 
